@@ -42,6 +42,7 @@ $usuarios = $query->fetchAll();
                 class="table table-bordered">
                 <thead>
                     <tr>
+                      
                         <th scope="col">id</th>
                         <th scope="col">Nombres</th>
                         <th scope="col">Correo</th>
